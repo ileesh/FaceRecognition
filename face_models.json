@@ -1,0 +1,17 @@
+{
+    "lastLabelNumber": 0,
+    "models": [
+        {
+            "path": "faces/donald_trump.jpg",
+            "label": "Donald Trump"
+        },
+        {
+            "path": "faces/barak_obama.jpg",
+            "label": "Barak Obama"
+        },
+        {
+            "path": "faces/joe_biden.jpg",
+            "label": "Joe Biden"
+        }
+    ]
+}
